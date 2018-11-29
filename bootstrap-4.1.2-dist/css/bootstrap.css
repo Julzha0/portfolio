@@ -67,6 +67,7 @@ body {
   color: #4B0082;
   text-align: left;
   background-color: #fff;
+
 }
 
 [tabindex="-1"]:focus {
@@ -87,6 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family: 'Montserrat', sans-serif;
 }
 
 abbr[title],
